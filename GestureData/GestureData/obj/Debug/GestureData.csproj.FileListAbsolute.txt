@@ -1,0 +1,5 @@
+c:\users\bob0021\documents\visual studio 2012\Projects\GestureData\GestureData\obj\Debug\GestureData.csprojResolveAssemblyReference.cache
+c:\users\bob0021\documents\visual studio 2012\Projects\GestureData\GestureData\bin\Debug\GestureData.dll
+c:\users\bob0021\documents\visual studio 2012\Projects\GestureData\GestureData\bin\Debug\GestureData.pdb
+c:\users\bob0021\documents\visual studio 2012\Projects\GestureData\GestureData\obj\Debug\GestureData.dll
+c:\users\bob0021\documents\visual studio 2012\Projects\GestureData\GestureData\obj\Debug\GestureData.pdb
